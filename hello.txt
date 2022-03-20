@@ -12,6 +12,3 @@ hello SGG! hello Git!
 hello SGG! hello Git!  master test.
 hello SGG! hello Git!  hot-fix test.
 WuMingshi0066  --->  push to web
-111111111111111111111111111111111111
-WuMingshi0066  --->  push to web02 again.
-22222222222222
