@@ -14,3 +14,4 @@ hello SGG! hello Git!  hot-fix test.
 WuMingshi0066  --->  push to web
 Nameless0066 push from local.
 Nameless0066 fork - edit in web browser.
+Nameless0066 fork - edit in local and push to Web.
