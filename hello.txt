@@ -24,3 +24,4 @@ update for check Gitee!
 2023-2-3 update for retry git and github --3.
 2023-2-3 update for retry git and github --4.
 2023-2-3 update for retry git and github --5.
+2023-2-3 update for retry git and github --6.
