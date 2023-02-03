@@ -25,6 +25,5 @@ update for check Gitee!
 2023-2-3 update for retry git and github --4.
 2023-2-3 update for retry git and github --5.
 2023-2-3 update for retry git and github --6.
-2023-2-3 update for retry git and github --use ssh.
-2023-2-3 update for retry git and github --use ssh2.
-2023-2-3 update for retry git and github --use ssh ed25519.
+======================================
+2023-2-4 update for retry git and github --use ssh-rsa_old.
